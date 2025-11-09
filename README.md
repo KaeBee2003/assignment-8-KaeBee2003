@@ -12,7 +12,7 @@ This project implements and compares three primary ensemble learning techniques 
 ## Project Structure
 ```
 .
-├── image.png             # Flow Chart Diagram for Stacking Ensemble
+├── image.png             # Flow Chart Diagram for Stacking
 ├── hour.csv              # Dataset (download from UCI repository)
 ├── README.md             # This file
 └── Ass8.ipynb            # Jupyter notebook with implementation
